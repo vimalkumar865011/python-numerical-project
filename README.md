@@ -11,11 +11,6 @@ and data visualization using Matplotlib.
 - NumPy
 - Matplotlib
 
-## Topics Covered
-- Matrix operations
-- Eigenvalues
-- Plotting graphs
-
 ## Author
 Vimal Kumar
 MSc Mathematics & Computing, BHU
